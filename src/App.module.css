@@ -1,0 +1,10 @@
+.container {
+  margin: 2em auto;
+  max-width: 520px;
+}
+
+.responseContainer {
+  margin: 2em auto;
+  padding: 1em;
+  background: lightgreen;
+}
