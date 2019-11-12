@@ -56,6 +56,9 @@ const App: React.FC = () => {
           Valid auth response: <pre>{response}</pre>
         </div>
       }
+      <footer className={classes.footer}>
+        <a href="https://github.com/bfncs/sip-auth-check" target="_blank" rel="noopener noreferrer">Source</a>
+      </footer>
     </div>
   );
 };

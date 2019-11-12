@@ -8,3 +8,9 @@
   padding: 1em;
   background: lightgreen;
 }
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  padding: 1em;
+}
